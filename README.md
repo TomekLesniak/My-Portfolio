@@ -17,8 +17,8 @@
  - [x] Data Structures
  - [x] Dependency Injection
  - [ ] LINQ 
- - [x] Unit Tests using MSTests
- - [x] Documenting code with XML comments
+ - [x] [Unit Tests using MSTests](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Tests)
+ - [x] [Documenting code with XML comments](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Lib)
  - [x] Asynchronous programming
  - [x] Basics of WPF
  - [x] Generics
