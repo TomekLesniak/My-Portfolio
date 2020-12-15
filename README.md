@@ -1,6 +1,6 @@
 # My Portfolio
 
-## This is my learning path to become a .Net developer. I am updating this as soon as I learn something new. Some of them contains links to my github repositories, where I am proving what I`ve learned in project ***I did by myself.***
+## This is my learning path to become a .Net developer. I am updating this as soon as I learn something new. Some of them contains links to my github repositories, where I am proving what I`ve learned in a project ***I did by myself.***
 
  - [x] C# fundamentals
  - [x] Debugging
@@ -15,7 +15,7 @@
  - [x] Delegates
  - [x] Events
  - [x] Data Structures
- - [x] Dependency Injection
+ - [x] [Dependency Injection](https://github.com/TomekLesniak/DependencyInjection)
  - [ ] LINQ 
  - [x] [Unit Tests using MSTests](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Tests)
  - [x] [Documenting code with XML comments](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Lib)
