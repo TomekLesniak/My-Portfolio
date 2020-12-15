@@ -1,6 +1,6 @@
 # My Portfolio
 
-## This is my learning path to become a professional .NET developer. I am updating this as soon as I learn something new. Some of them contains links to my github repositories, where I am proving what I`ve learned in a project ***I did by myself.***
+## This is my learning path to become a professional .NET developer. I am updating this as soon as I learn something new. Some of them contains links to my github repositories, where I am proving what I`ve learned in a project ***I did myself.***
 
  - [x] C# fundamentals
  - [x] Debugging
