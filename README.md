@@ -13,7 +13,7 @@
  - [x] SOLID principles
  - [ ] [Design Patterns (In progress)](https://github.com/TomekLesniak/DesignPatterns)
  - [x] [Delegates](https://github.com/TomekLesniak/Delegates)
- - [x] Events
+ - [x] [Events](https://github.com/TomekLesniak/Events)
  - [x] [Data Structures](https://github.com/TomekLesniak/StackGeneric/blob/master/StackGeneric/Stack.cs)
  - [x] [Dependency Injection](https://github.com/TomekLesniak/DependencyInjection)
  - [x] [Unit Tests using MSTests](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Tests)
