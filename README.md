@@ -25,7 +25,7 @@
  - [ ] Mocking
  - [ ] LINQ 
  - [ ] Logging
- - [ ] Fluent validation
+ - [x] [Fluent validation](https://github.com/TomekLesniak/FluentValidation)
  - [ ] Dapper
  - [ ] MongoDB
  - [ ] Advanced WPF
