@@ -27,7 +27,7 @@
  - [x] LINQ 
  - [ ] Logging
  - [x] [Fluent validation](https://github.com/TomekLesniak/FluentValidation)
- - [ ] Dapper
+ - [x] [Dapper](https://github.com/TomekLesniak/SQLiteDemo)
  - [ ] MongoDB
  - [ ] Entity Framework
  - [ ] Docker
