@@ -10,7 +10,7 @@
  - [x] Abstract classes
  - [x] Error handling 
  - [x] Lambda Expressions 
- - [x] SQLite
+ - [x] [SQLite](https://github.com/TomekLesniak/SQLiteDemo)
  - [x] SOLID principles
  - [ ] [Design Patterns (In progress)](https://github.com/TomekLesniak/DesignPatterns)
  - [x] [Delegates](https://github.com/TomekLesniak/Delegates)
@@ -20,7 +20,7 @@
  - [x] [Unit Tests using MSTests](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Tests)
  - [x] [Documenting code with XML comments](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Lib)
  - [x] Asynchronous programming
- - [x] Basics of WPF
+ - [x] [Basics of WPF](https://github.com/TomekLesniak/SQLiteDemo)
  - [x] [Generics](https://github.com/TomekLesniak/StackGeneric/blob/master/StackGeneric/Stack.cs)
  - [x] Unit Tests with XUnit
  - [ ] Mocking
