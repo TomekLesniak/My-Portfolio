@@ -36,6 +36,6 @@
  - [ ] ASP.NET Core API
  - [ ] .NET Core AppSettings in depth
  - [ ] Blazor Server
- - [ ] Advanced SQL database creation and best practises
+ - [ ] Advanced SQL databases creation&managment and best practises
  - [ ] Azure DevOps
  - [ ] Logging
