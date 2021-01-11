@@ -10,7 +10,7 @@
  - [x] Abstract classes
  - [x] Error handling 
  - [x] Lambda Expressions 
- - [x] [SQLite](https://github.com/TomekLesniak/SQLiteDemo)
+ - [x] [SQLite](https://github.com/TomekLesniak/SQLiteDapper)
  - [x] SOLID principles
  - [ ] [Design Patterns (In progress)](https://github.com/TomekLesniak/DesignPatterns)
  - [x] [Delegates](https://github.com/TomekLesniak/Delegates)
@@ -25,7 +25,7 @@
  - [x] Unit Tests with XUnit
  - [x] LINQ 
  - [x] [Fluent validation](https://github.com/TomekLesniak/FluentValidation)
- - [x] [Dapper](https://github.com/TomekLesniak/SQLiteDemo)
+ - [x] [Dapper](https://github.com/TomekLesniak/SQLiteDapper)
  - [x] MongoDB basics
  - [ ] Entity Framework
  - [ ] Docker
