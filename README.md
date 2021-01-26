@@ -32,7 +32,7 @@
  - [ ] Mocking
  - [ ] Advanced WPF (MVVM)
  - [x] [ASP.NET Core Razor Pages](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
- - [ ] ASP.NET Core MVC
+ - [ ] [ASP.NET Core MVC](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
  - [ ] ASP.NET Core API
  - [ ] .NET Core AppSettings in depth
  - [ ] Blazor Server
