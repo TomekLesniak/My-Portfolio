@@ -19,7 +19,7 @@
  - [x] [Dependency Injection](https://github.com/TomekLesniak/DependencyInjection)
  - [x] [Unit Tests using MSTests](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Tests)
  - [x] [Documenting code with XML comments](https://github.com/TomekLesniak/Time-And-TimePeriod/tree/master/Time-And-TimePeriod-Lib)
- - [x] Asynchronous programming
+ - [x] [Asynchronous programming](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
  - [x] [Basics of WPF](https://github.com/TomekLesniak/SQLiteDemo)
  - [x] [Generics](https://github.com/TomekLesniak/StackGeneric/blob/master/StackGeneric/Stack.cs)
  - [x] Unit Tests with XUnit
@@ -31,7 +31,7 @@
  - [ ] Docker
  - [ ] Mocking
  - [ ] Advanced WPF (MVVM)
- - [ ] ASP.NET Core Razor Pages
+ - [x] [ASP.NET Core Razor Pages](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
  - [ ] ASP.NET Core MVC
  - [ ] ASP.NET Core API
  - [ ] .NET Core AppSettings in depth
