@@ -27,15 +27,20 @@
  - [x] [Fluent validation](https://github.com/TomekLesniak/FluentValidation)
  - [x] [Dapper](https://github.com/TomekLesniak/SQLiteDapper)
  - [x] MongoDB basics
- - [ ] Entity Framework
- - [ ] Docker
- - [ ] Mocking
- - [ ] Advanced WPF (MVVM)
- - [x] [ASP.NET Core Razor Pages](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
- - [ ] [ASP.NET Core MVC](https://github.com/TomekLesniak/AspNetRazorPagesCRUD)
- - [ ] ASP.NET Core API
+ - [x] Entity Framework basics
+ - [x] [ASP.NET Core Razor Pages](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleWeb)
+ - [x] [ASP.NET Core MVC](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleWebMVC)
+ - [x] [ASP.NET Core API](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleWebAPI)
+ - [x] [Blazor Server](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleBlazorServer)
+ - [ ] Blazor Client
  - [ ] .NET Core AppSettings in depth
- - [ ] Blazor Server
  - [ ] Advanced SQL databases creation&managment and best practises
  - [ ] Azure DevOps
  - [ ] Logging
+ - [ ] Blazor Server in depth
+ - [ ] Docker
+ - [ ] Mocking
+ - [ ] Advanced WPF (MVVM)
+ 
+ 
+ 
