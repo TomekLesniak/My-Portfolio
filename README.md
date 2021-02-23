@@ -2,6 +2,11 @@
 
 ## This is my learning path to become a professional .NET developer. I am updating this as soon as I learn something new. Some of them contains links to my github repositories, where I am proving what I`ve learned in a project ***I did myself.***
 
+## Projects
+ - [To-Do application](https://github.com/TomekLesniak/TodoApp)
+
+## Knowledge
+
  - [x] C# fundamentals
  - [x] SQL basics
  - [x] Debugging
@@ -40,7 +45,7 @@
  - [ ] Blazor Server in depth
  - [ ] Docker
  - [ ] Mocking
- - [ ] Advanced WPF (MVVM)
+ - [x] [Advanced WPF (MVVM)](https://github.com/TomekLesniak/TodoApp)
  
  
  
