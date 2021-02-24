@@ -37,15 +37,16 @@
  - [x] [ASP.NET Core MVC](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleWebMVC)
  - [x] [ASP.NET Core API](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleWebAPI)
  - [x] [Blazor Server](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleBlazorServer)
+ - [x] .NET Core AppSettings in depth
+ - [x] [Advanced WPF (MVVM)](https://github.com/TomekLesniak/TodoApp)
  - [ ] Blazor Client
- - [ ] .NET Core AppSettings in depth
  - [ ] Advanced SQL databases creation&managment and best practises
  - [ ] Azure DevOps
  - [ ] Logging
  - [ ] Blazor Server in depth
  - [ ] Docker
  - [ ] Mocking
- - [x] [Advanced WPF (MVVM)](https://github.com/TomekLesniak/TodoApp)
+
  
  
  
