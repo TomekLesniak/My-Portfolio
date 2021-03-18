@@ -40,7 +40,6 @@
  - [x] .NET Core AppSettings in depth
  - [x] [Advanced WPF (MVVM)](https://github.com/TomekLesniak/TodoApp)
  - [x] Blazor Webassembly basics
- - [ ] Advanced SQL databases creation&managment and best practises
  - [x] Azure DevOps basics
  - [x] Logging
  - [x] Blazor Server in depth:
@@ -57,6 +56,11 @@
   - Azure Storage, SignalR service
   - Security
  - [ ] Docker
+ - [ ] Advanced SQL databases creation&managment and best practises
+  - Complex queries
+  - Relationships, execution plans
+  - Views, stored procedures
+  - Backups
  - [ ] Mocking
 
  
