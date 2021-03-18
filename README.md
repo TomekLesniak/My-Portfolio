@@ -39,11 +39,23 @@
  - [x] [Blazor Server](https://github.com/TomekLesniak/AspNetRazorPagesCRUD/tree/master/PeopleBlazorServer)
  - [x] .NET Core AppSettings in depth
  - [x] [Advanced WPF (MVVM)](https://github.com/TomekLesniak/TodoApp)
- - [ ] Blazor Client
+ - [x] Blazor Webassembly basics
  - [ ] Advanced SQL databases creation&managment and best practises
- - [ ] Azure DevOps
- - [ ] Logging
- - [ ] Blazor Server in depth
+ - [x] Azure DevOps basics
+ - [x] Logging
+ - [x] Blazor Server in depth:
+  - JS Interop
+  - Logging, Configuration
+  - Code separation, razor syntax
+  - Components, parameters, events
+  - Forms, validation, file uploads, advanced forms, nested dropdowns
+  - Authentication & authorization, roles
+ - [ ] Azure & cloud:
+  - Azure Web apps creation & deployment
+  - Azure SQL, Azure Functions, CosmosDB
+  - Azure Key Vault, virtual machines, Cache for Redis
+  - Azure Storage, SignalR service
+  - Security
  - [ ] Docker
  - [ ] Mocking
 
