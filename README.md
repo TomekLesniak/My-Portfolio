@@ -49,7 +49,7 @@
   - Components, parameters, events
   - Forms, validation, file uploads, advanced forms, nested dropdowns
   - Authentication & authorization, roles
- - [ ] Azure & cloud:
+ - [x] Azure & cloud basics/intermediate knowledge of:
   - Azure Web apps creation & deployment
   - Azure SQL, Azure Functions, CosmosDB
   - Azure Key Vault, virtual machines, Cache for Redis
