@@ -55,8 +55,8 @@
   - Azure Key Vault, virtual machines, Cache for Redis
   - Azure Storage, SignalR service
   - Security
- - [ ] Docker
- - [ ] Advanced SQL databases creation&managment and best practises
+ - [x] Docker basics
+ - [x] Advanced SQL databases creation&managment and best practises
   - Complex queries
   - Relationships, execution plans
   - Views, stored procedures
